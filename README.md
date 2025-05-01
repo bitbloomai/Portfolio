@@ -47,8 +47,6 @@ Aqui estão alguns dos projetos que representam nosso compromisso em transformar
 - **Status**: 🟢 Ativo e recebendo atualizações. 
 - **Repositório**: [github.com/Cyber-Gust/Missao_Kids_App.git](https://github.com/Cyber-Gust/Missao_Kids_App.git)
 
-github.com
-
 ---
 
 ## 🚀 Nossos Serviços
