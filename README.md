@@ -27,34 +27,13 @@ Nosso estilo é moderno e tecnológico, refletido em nossa paleta de cores vibra
 ✨ **Roxo**: Criatividade e inovação.  
 ✨ **Rosa**: Energia e modernidade.
 
-> **Dica Visual**: Caso acompanhe este README com um banner ou logo, priorize um fundo branco com detalhes em azul e roxo, e toques de rosa para destaque (ex.: botões ou ícones). Use azul claro para textos secundários ou fundos suaves.
-
 ---
 
 ## 🛠️ Projetos em Destaque
 
 Aqui estão alguns dos projetos que representam nosso compromisso em transformar ideias em soluções digitais. Explore como fazemos a diferença!
 
-### 1. 🌟 BloomFit - App de Bem-Estar
-- **Descrição**: Um aplicativo de assinatura para promover saúde e bem-estar, com treinos personalizados e rastreamento de progresso via IA.  
-- **Tecnologias**: React Native, Node.js, Machine Learning.  
-- **Impacto**: Mais de 500 usuários ativos em 6 meses, ajudando pessoas a atingirem seus objetivos de fitness.  
-- **Status**: 🟢 Em desenvolvimento contínuo.  
-- **Visual**: Imagine cards ou ícones deste projeto com fundo azul claro e detalhes em rosa para energia e vitalidade.
-
-### 2. 💼 ConnectSJ - Plataforma Web para Negócios Locais
-- **Descrição**: Website que conecta empreendedores de São João del-Rei a clientes, com sistema de busca e avaliação.  
-- **Tecnologias**: React, Firebase, CSS Moderno.  
-- **Impacto**: Fortalecendo a economia local com mais de 100 negócios cadastrados.  
-- **Status**: 🟢 Ativo e em expansão.  
-- **Visual**: Use azul predominante para confiança, com toques de roxo para destacar inovação.
-
-### 3. 🛡️ SecureFlow - Software de Gestão de Dados
-- **Descrição**: Solução personalizada para empresas protegerem e gerenciarem dados sensíveis com criptografia avançada.  
-- **Tecnologias**: Python, Django, AWS.  
-- **Impacto**: Redução de 30% em riscos de vazamento de dados para clientes corporativos.  
-- **Status**: 🟡 Em fase de testes finais.  
-- **Visual**: Priorize roxo e azul para transmitir segurança e tecnologia.
+### 1. 
 
 ---
 
