@@ -33,7 +33,13 @@ Nosso estilo é moderno e tecnológico, refletido em nossa paleta de cores vibra
 
 Aqui estão alguns dos projetos que representam nosso compromisso em transformar ideias em soluções digitais. Explore como fazemos a diferença!
 
-### 1. 
+### 1. 🗣️ Fala Mecânico - Chatbot de IA para WhatsApp
+- **Descrição**: Um chatbot inteligente para mecânicos, projetado para tirar dúvidas e consultar informações técnicas diretamente pelo WhatsApp, agilizando o dia a dia de profissionais da área.  
+- **Tecnologias**: IA (Natural Language Processing), WhatsApp API, Node.js.  
+- **Impacto**: Reduz o tempo de busca por informações técnicas em até 70%, apoiando mecânicos com respostas rápidas e precisas.  
+- **Status**: 🟢 Ativo e recebendo atualizações.  
+- **Visual**: Sugerimos fundo azul claro para acessibilidade, com detalhes em roxo para destacar a inovação da IA e toques de rosa para dinamismo.
+- **Site**: [www.falamecanico.vercel.app](https://www.falamecanico.vercel.app)
 
 ---
 
