@@ -72,11 +72,11 @@ Transformamos sua visão em realidade com soluções sob medida:
 ## 📬 Contato
 
 Quer trabalhar conosco ou transformar sua ideia em solução digital? Estamos prontos para ajudar!  
-- ✉️ **Email**: contato@bitbloomai.com (substitua pelo real)  
-- 🌍 **Website**: [www.bitbloomai.com](https://www.bitbloomai.com) (substitua pelo real)  
+- ✉️ **Email**: bitbloomai@gmail.com 
+- 🌍 **Website**: [www.bitbloomai.com](https://www.bitbloomai.com)
 - 📍 **Localização**: São João del-Rei, Minas Gerais, Brasil  
 - 🐙 **GitHub**: [github.com/BitBloomAI](https://github.com/BitBloomAI)  
-- 📸 **Instagram**: [@BitBloomAI](https://instagram.com/BitBloomAI) (substitua pelo real)
+- 📸 **Instagram**: [@BitBloomAI](https://instagram.com/BitBloomAI)
 
 ---
 
