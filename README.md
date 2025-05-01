@@ -40,6 +40,15 @@ Aqui estão alguns dos projetos que representam nosso compromisso em transformar
 - **Status**: 🟢 Ativo e recebendo atualizações.  
 - **Site**: [www.falamecanico.vercel.app](https://falamecanico.vercel.app/)
 
+### 2. 👧🧒 Missão Kids App – Controle e Gestão de Ministério Infantil
+- **Descrição**: Uma solução completa para o controle do ministério infantil em igrejas evangélicas, com cadastro local de crianças, check-in/check-out por responsáveis, relatórios automáticos e galeria de fotos do grupo. O sistema facilita a segurança no recebimento e    entrega das crianças, agiliza o fluxo do culto e centraliza dados importantes para a coordenação.
+- **Tecnologias**: Python, PyQt5, Banco de Dados Local (CSV), PyInstaller.
+- **Impacto**: Otimiza o controle e segurança das crianças durante os cultos, reduz erros de retirada/entrega, gera relatórios e registros, e fortalece a comunicação entre voluntários e responsáveis.
+- **Status**: 🟢 Ativo e recebendo atualizações. 
+- **Repositório**: [github.com/Cyber-Gust/Missao_Kids_App.git](https://github.com/Cyber-Gust/Missao_Kids_App.git)
+
+github.com
+
 ---
 
 ## 🚀 Nossos Serviços
